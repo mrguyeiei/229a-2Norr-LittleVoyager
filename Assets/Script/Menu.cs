@@ -13,4 +13,8 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("Start");
     }
+    public void Next()
+    {
+        SceneManager.LoadScene("End");
+    }
 }

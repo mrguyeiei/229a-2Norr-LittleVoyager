@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 817806570}
   - component: {fileID: 817806569}
   m_Layer: 5
-  m_Name: Return to Menu
+  m_Name: Next
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -296,7 +296,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1684661669}
         m_TargetAssemblyTypeName: Menu, Assembly-CSharp
-        m_MethodName: ReturntoMenu
+        m_MethodName: Next
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -638,7 +638,7 @@ GameObject:
   - component: {fileID: 1728814666}
   - component: {fileID: 1728814665}
   m_Layer: 5
-  m_Name: ReturntoMenu
+  m_Name: Next
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -683,7 +683,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' Return to Menu'
+  m_text: 'Next
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7bbac735ee0d1be4dbd5489257c94429, type: 2}
   m_sharedMaterial: {fileID: 6725714113193290871, guid: 7bbac735ee0d1be4dbd5489257c94429, type: 2}

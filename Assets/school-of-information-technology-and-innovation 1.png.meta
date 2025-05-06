@@ -1,0 +1,4940 @@
+fileFormatVersion: 2
+guid: 9b13baaabd2fdb44498fa2ab4002ca19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1946064595751819895
+    second: school-of-information-technology-and-innovation 1_0
+  - first:
+      213: 5429847352123444617
+    second: school-of-information-technology-and-innovation 1_1
+  - first:
+      213: 361068742630818299
+    second: school-of-information-technology-and-innovation 1_2
+  - first:
+      213: -7105721045051967381
+    second: school-of-information-technology-and-innovation 1_3
+  - first:
+      213: -8324888059271121854
+    second: school-of-information-technology-and-innovation 1_4
+  - first:
+      213: 8489357928757040701
+    second: school-of-information-technology-and-innovation 1_5
+  - first:
+      213: 8243889777565730110
+    second: school-of-information-technology-and-innovation 1_6
+  - first:
+      213: -4929438440712265169
+    second: school-of-information-technology-and-innovation 1_7
+  - first:
+      213: -5855689448588484422
+    second: school-of-information-technology-and-innovation 1_8
+  - first:
+      213: -5519904585016410289
+    second: school-of-information-technology-and-innovation 1_9
+  - first:
+      213: 4108867388504814154
+    second: school-of-information-technology-and-innovation 1_10
+  - first:
+      213: -4648037764494263080
+    second: school-of-information-technology-and-innovation 1_11
+  - first:
+      213: 6072725536655752038
+    second: school-of-information-technology-and-innovation 1_12
+  - first:
+      213: -5909755562067644664
+    second: school-of-information-technology-and-innovation 1_13
+  - first:
+      213: 4866013754944494303
+    second: school-of-information-technology-and-innovation 1_14
+  - first:
+      213: -6823495243223726419
+    second: school-of-information-technology-and-innovation 1_15
+  - first:
+      213: 7095772253694478808
+    second: school-of-information-technology-and-innovation 1_16
+  - first:
+      213: 8174722387272020593
+    second: school-of-information-technology-and-innovation 1_17
+  - first:
+      213: -4998350425435231882
+    second: school-of-information-technology-and-innovation 1_18
+  - first:
+      213: 3260537233244736323
+    second: school-of-information-technology-and-innovation 1_19
+  - first:
+      213: -8080561523952460346
+    second: school-of-information-technology-and-innovation 1_20
+  - first:
+      213: 4162235003347089891
+    second: school-of-information-technology-and-innovation 1_21
+  - first:
+      213: -5730447414633684174
+    second: school-of-information-technology-and-innovation 1_22
+  - first:
+      213: -276218844142723860
+    second: school-of-information-technology-and-innovation 1_23
+  - first:
+      213: 897321602218851202
+    second: school-of-information-technology-and-innovation 1_24
+  - first:
+      213: 5718446442253866095
+    second: school-of-information-technology-and-innovation 1_25
+  - first:
+      213: -7615707634001055406
+    second: school-of-information-technology-and-innovation 1_26
+  - first:
+      213: -1609717648705266611
+    second: school-of-information-technology-and-innovation 1_27
+  - first:
+      213: -2654257301116540905
+    second: school-of-information-technology-and-innovation 1_28
+  - first:
+      213: -9165167311739305307
+    second: school-of-information-technology-and-innovation 1_29
+  - first:
+      213: -8033591828159472606
+    second: school-of-information-technology-and-innovation 1_30
+  - first:
+      213: 185174344264293506
+    second: school-of-information-technology-and-innovation 1_31
+  - first:
+      213: -2396842080582921510
+    second: school-of-information-technology-and-innovation 1_32
+  - first:
+      213: 2899111695131941158
+    second: school-of-information-technology-and-innovation 1_33
+  - first:
+      213: 4728252054726565296
+    second: school-of-information-technology-and-innovation 1_34
+  - first:
+      213: -2669597311651645350
+    second: school-of-information-technology-and-innovation 1_35
+  - first:
+      213: 8425942418433932627
+    second: school-of-information-technology-and-innovation 1_36
+  - first:
+      213: -7964845538035424321
+    second: school-of-information-technology-and-innovation 1_37
+  - first:
+      213: 6090509215777421063
+    second: school-of-information-technology-and-innovation 1_38
+  - first:
+      213: -125138322989819579
+    second: school-of-information-technology-and-innovation 1_39
+  - first:
+      213: 2579497515579581916
+    second: school-of-information-technology-and-innovation 1_40
+  - first:
+      213: 8735449118486186310
+    second: school-of-information-technology-and-innovation 1_41
+  - first:
+      213: -5248959889838640061
+    second: school-of-information-technology-and-innovation 1_42
+  - first:
+      213: 6554740455112470533
+    second: school-of-information-technology-and-innovation 1_43
+  - first:
+      213: 1896917030244061129
+    second: school-of-information-technology-and-innovation 1_44
+  - first:
+      213: -8268316378731735959
+    second: school-of-information-technology-and-innovation 1_45
+  - first:
+      213: 5955509232580420186
+    second: school-of-information-technology-and-innovation 1_46
+  - first:
+      213: 8127934544980504496
+    second: school-of-information-technology-and-innovation 1_47
+  - first:
+      213: 8003381159684780893
+    second: school-of-information-technology-and-innovation 1_48
+  - first:
+      213: 5568306768082049413
+    second: school-of-information-technology-and-innovation 1_49
+  - first:
+      213: 3395945807902042855
+    second: school-of-information-technology-and-innovation 1_50
+  - first:
+      213: -6525988960718665755
+    second: school-of-information-technology-and-innovation 1_51
+  - first:
+      213: 3843147071732780346
+    second: school-of-information-technology-and-innovation 1_52
+  - first:
+      213: 903862681569407166
+    second: school-of-information-technology-and-innovation 1_53
+  - first:
+      213: -8340755288012209863
+    second: school-of-information-technology-and-innovation 1_54
+  - first:
+      213: 4504945421727815416
+    second: school-of-information-technology-and-innovation 1_55
+  - first:
+      213: 1590726394899605230
+    second: school-of-information-technology-and-innovation 1_56
+  - first:
+      213: -3350934609682081225
+    second: school-of-information-technology-and-innovation 1_57
+  - first:
+      213: 600133142201604104
+    second: school-of-information-technology-and-innovation 1_58
+  - first:
+      213: -8361038399219163511
+    second: school-of-information-technology-and-innovation 1_59
+  - first:
+      213: -690979295007202776
+    second: school-of-information-technology-and-innovation 1_60
+  - first:
+      213: -4275856414809488528
+    second: school-of-information-technology-and-innovation 1_61
+  - first:
+      213: -5709122506617450469
+    second: school-of-information-technology-and-innovation 1_62
+  - first:
+      213: -8378835405896172947
+    second: school-of-information-technology-and-innovation 1_63
+  - first:
+      213: 7933760652743331080
+    second: school-of-information-technology-and-innovation 1_64
+  - first:
+      213: -4158765531362000046
+    second: school-of-information-technology-and-innovation 1_65
+  - first:
+      213: 6975288780667192468
+    second: school-of-information-technology-and-innovation 1_66
+  - first:
+      213: 3498623237577044842
+    second: school-of-information-technology-and-innovation 1_67
+  - first:
+      213: 9123657128592812907
+    second: school-of-information-technology-and-innovation 1_68
+  - first:
+      213: -4150370216522921763
+    second: school-of-information-technology-and-innovation 1_69
+  - first:
+      213: -3595841684553519681
+    second: school-of-information-technology-and-innovation 1_70
+  - first:
+      213: 7222372677471623270
+    second: school-of-information-technology-and-innovation 1_71
+  - first:
+      213: 4414311896690122343
+    second: school-of-information-technology-and-innovation 1_72
+  - first:
+      213: -1089757698106430460
+    second: school-of-information-technology-and-innovation 1_73
+  - first:
+      213: -2990537243481700009
+    second: school-of-information-technology-and-innovation 1_74
+  - first:
+      213: -7490279573532686680
+    second: school-of-information-technology-and-innovation 1_75
+  - first:
+      213: -1951189695905059319
+    second: school-of-information-technology-and-innovation 1_76
+  - first:
+      213: 284142968553565431
+    second: school-of-information-technology-and-innovation 1_77
+  - first:
+      213: 625957152155037692
+    second: school-of-information-technology-and-innovation 1_78
+  - first:
+      213: -6027491569328684986
+    second: school-of-information-technology-and-innovation 1_79
+  - first:
+      213: 8159969189775624907
+    second: school-of-information-technology-and-innovation 1_80
+  - first:
+      213: 1620760524990297111
+    second: school-of-information-technology-and-innovation 1_81
+  - first:
+      213: 3696505626665489055
+    second: school-of-information-technology-and-innovation 1_82
+  - first:
+      213: 1791992279545299527
+    second: school-of-information-technology-and-innovation 1_83
+  - first:
+      213: -4757222335778873597
+    second: school-of-information-technology-and-innovation 1_84
+  - first:
+      213: 7648252358217929091
+    second: school-of-information-technology-and-innovation 1_85
+  - first:
+      213: -189201803992437999
+    second: school-of-information-technology-and-innovation 1_86
+  - first:
+      213: -3487657662025374039
+    second: school-of-information-technology-and-innovation 1_87
+  - first:
+      213: 3841394076464574448
+    second: school-of-information-technology-and-innovation 1_88
+  - first:
+      213: 2311359165934754886
+    second: school-of-information-technology-and-innovation 1_89
+  - first:
+      213: 5668370163886217400
+    second: school-of-information-technology-and-innovation 1_90
+  - first:
+      213: -6802187747742444325
+    second: school-of-information-technology-and-innovation 1_91
+  - first:
+      213: -2802105215779232145
+    second: school-of-information-technology-and-innovation 1_92
+  - first:
+      213: 2445518357569439922
+    second: school-of-information-technology-and-innovation 1_93
+  - first:
+      213: 7829664858358244243
+    second: school-of-information-technology-and-innovation 1_94
+  - first:
+      213: 2921500434210198261
+    second: school-of-information-technology-and-innovation 1_95
+  - first:
+      213: 3028565328449914215
+    second: school-of-information-technology-and-innovation 1_96
+  - first:
+      213: 4491127576305959696
+    second: school-of-information-technology-and-innovation 1_97
+  - first:
+      213: -1155432678810839014
+    second: school-of-information-technology-and-innovation 1_98
+  - first:
+      213: -8480379438475766086
+    second: school-of-information-technology-and-innovation 1_99
+  - first:
+      213: 1736646070387361075
+    second: school-of-information-technology-and-innovation 1_100
+  - first:
+      213: -4343989049734302241
+    second: school-of-information-technology-and-innovation 1_101
+  - first:
+      213: -2305400839646842548
+    second: school-of-information-technology-and-innovation 1_102
+  - first:
+      213: 3681275984341439969
+    second: school-of-information-technology-and-innovation 1_103
+  - first:
+      213: 5718548970136868704
+    second: school-of-information-technology-and-innovation 1_104
+  - first:
+      213: -5256249180267856739
+    second: school-of-information-technology-and-innovation 1_105
+  - first:
+      213: 2905881546149594845
+    second: school-of-information-technology-and-innovation 1_106
+  - first:
+      213: -3031535156898493680
+    second: school-of-information-technology-and-innovation 1_107
+  - first:
+      213: 5074824762800214779
+    second: school-of-information-technology-and-innovation 1_108
+  - first:
+      213: 2177696722069779088
+    second: school-of-information-technology-and-innovation 1_109
+  - first:
+      213: 3610851566493772488
+    second: school-of-information-technology-and-innovation 1_110
+  - first:
+      213: 8482010286172927909
+    second: school-of-information-technology-and-innovation 1_111
+  - first:
+      213: 7501174656894364489
+    second: school-of-information-technology-and-innovation 1_112
+  - first:
+      213: -1981130781937317621
+    second: school-of-information-technology-and-innovation 1_113
+  - first:
+      213: -7964082042535509055
+    second: school-of-information-technology-and-innovation 1_114
+  - first:
+      213: -300207478751501067
+    second: school-of-information-technology-and-innovation 1_115
+  - first:
+      213: 3472562462701311136
+    second: school-of-information-technology-and-innovation 1_116
+  - first:
+      213: -5652477126443062288
+    second: school-of-information-technology-and-innovation 1_117
+  - first:
+      213: 1259731551285035471
+    second: school-of-information-technology-and-innovation 1_118
+  - first:
+      213: 3353746458811588365
+    second: school-of-information-technology-and-innovation 1_119
+  - first:
+      213: -5744039618038812772
+    second: school-of-information-technology-and-innovation 1_120
+  - first:
+      213: 7769323342399602559
+    second: school-of-information-technology-and-innovation 1_121
+  - first:
+      213: -3806001755611713129
+    second: school-of-information-technology-and-innovation 1_122
+  - first:
+      213: -8488681356207419871
+    second: school-of-information-technology-and-innovation 1_123
+  - first:
+      213: -8229350265763197174
+    second: school-of-information-technology-and-innovation 1_124
+  - first:
+      213: -1341579288957313868
+    second: school-of-information-technology-and-innovation 1_125
+  - first:
+      213: 6746801994106460717
+    second: school-of-information-technology-and-innovation 1_126
+  - first:
+      213: -3675816745985928827
+    second: school-of-information-technology-and-innovation 1_127
+  - first:
+      213: -5729942214017817762
+    second: school-of-information-technology-and-innovation 1_128
+  - first:
+      213: -7769474356072739929
+    second: school-of-information-technology-and-innovation 1_129
+  - first:
+      213: -6321391170704869866
+    second: school-of-information-technology-and-innovation 1_130
+  - first:
+      213: 3816624955896351258
+    second: school-of-information-technology-and-innovation 1_131
+  - first:
+      213: -3105304815846147119
+    second: school-of-information-technology-and-innovation 1_132
+  - first:
+      213: 2753122395175867345
+    second: school-of-information-technology-and-innovation 1_133
+  - first:
+      213: -5068947377317402485
+    second: school-of-information-technology-and-innovation 1_134
+  - first:
+      213: 6423326745552879423
+    second: school-of-information-technology-and-innovation 1_135
+  - first:
+      213: -6394234758358738119
+    second: school-of-information-technology-and-innovation 1_136
+  - first:
+      213: -7313061845317363666
+    second: school-of-information-technology-and-innovation 1_137
+  - first:
+      213: 30783979833694187
+    second: school-of-information-technology-and-innovation 1_138
+  - first:
+      213: -6099340603852674784
+    second: school-of-information-technology-and-innovation 1_139
+  - first:
+      213: 3416474536733028786
+    second: school-of-information-technology-and-innovation 1_140
+  - first:
+      213: 6037571514594289956
+    second: school-of-information-technology-and-innovation 1_141
+  - first:
+      213: -107611846129991472
+    second: school-of-information-technology-and-innovation 1_142
+  - first:
+      213: 1414348458145862435
+    second: school-of-information-technology-and-innovation 1_143
+  - first:
+      213: -4028867175418781658
+    second: school-of-information-technology-and-innovation 1_144
+  - first:
+      213: 6489486991825888589
+    second: school-of-information-technology-and-innovation 1_145
+  - first:
+      213: -7663329959372338335
+    second: school-of-information-technology-and-innovation 1_146
+  - first:
+      213: -4496569268193423259
+    second: school-of-information-technology-and-innovation 1_147
+  - first:
+      213: 4563371984133137048
+    second: school-of-information-technology-and-innovation 1_148
+  - first:
+      213: -5362459014978589103
+    second: school-of-information-technology-and-innovation 1_149
+  - first:
+      213: 7367640300796608360
+    second: school-of-information-technology-and-innovation 1_150
+  - first:
+      213: -8589493665049306611
+    second: school-of-information-technology-and-innovation 1_151
+  - first:
+      213: 747488483692302472
+    second: school-of-information-technology-and-innovation 1_152
+  - first:
+      213: 8480045752320713832
+    second: school-of-information-technology-and-innovation 1_153
+  - first:
+      213: -704431990383280896
+    second: school-of-information-technology-and-innovation 1_154
+  - first:
+      213: -5924583145256955917
+    second: school-of-information-technology-and-innovation 1_155
+  - first:
+      213: 240423617400480693
+    second: school-of-information-technology-and-innovation 1_156
+  - first:
+      213: 5834803934480413655
+    second: school-of-information-technology-and-innovation 1_157
+  - first:
+      213: -7796542356824325685
+    second: school-of-information-technology-and-innovation 1_158
+  - first:
+      213: -2743215863288880137
+    second: school-of-information-technology-and-innovation 1_159
+  - first:
+      213: 2867946256819554556
+    second: school-of-information-technology-and-innovation 1_160
+  - first:
+      213: -1658543292236230443
+    second: school-of-information-technology-and-innovation 1_161
+  - first:
+      213: -7761785138341407663
+    second: school-of-information-technology-and-innovation 1_162
+  - first:
+      213: -6923457841836958294
+    second: school-of-information-technology-and-innovation 1_163
+  - first:
+      213: 2069408360390278818
+    second: school-of-information-technology-and-innovation 1_164
+  - first:
+      213: -1430084621687490568
+    second: school-of-information-technology-and-innovation 1_165
+  - first:
+      213: -3235109529305364698
+    second: school-of-information-technology-and-innovation 1_166
+  - first:
+      213: 713076315458534244
+    second: school-of-information-technology-and-innovation 1_167
+  - first:
+      213: 8257686425299023101
+    second: school-of-information-technology-and-innovation 1_168
+  - first:
+      213: -1151502274840769924
+    second: school-of-information-technology-and-innovation 1_169
+  - first:
+      213: -4811634201063605981
+    second: school-of-information-technology-and-innovation 1_170
+  - first:
+      213: 7061429534429657783
+    second: school-of-information-technology-and-innovation 1_171
+  - first:
+      213: -7719484887397853032
+    second: school-of-information-technology-and-innovation 1_172
+  - first:
+      213: 5987991185167374328
+    second: school-of-information-technology-and-innovation 1_173
+  - first:
+      213: -8407284189669821367
+    second: school-of-information-technology-and-innovation 1_174
+  - first:
+      213: 7663134447887978741
+    second: school-of-information-technology-and-innovation 1_175
+  - first:
+      213: -8476617563986602052
+    second: school-of-information-technology-and-innovation 1_176
+  - first:
+      213: 7827323131555382628
+    second: school-of-information-technology-and-innovation 1_177
+  - first:
+      213: -2666845615834263327
+    second: school-of-information-technology-and-innovation 1_178
+  - first:
+      213: -7954131263352332501
+    second: school-of-information-technology-and-innovation 1_179
+  - first:
+      213: -5659585017092365396
+    second: school-of-information-technology-and-innovation 1_180
+  - first:
+      213: 4886108657945009927
+    second: school-of-information-technology-and-innovation 1_181
+  - first:
+      213: -3013921895666193159
+    second: school-of-information-technology-and-innovation 1_182
+  - first:
+      213: -8463917616414448971
+    second: school-of-information-technology-and-innovation 1_183
+  - first:
+      213: 1790918805100516998
+    second: school-of-information-technology-and-innovation 1_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2428
+        width: 1959
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a50cb607fc10b10800000000000000
+      internalID: 1946064595751819895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2841
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc9efe561ba5b40800000000000000
+      internalID: 5429847352123444617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2841
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c100cb16c20500800000000000000
+      internalID: 361068742630818299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2842
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f8a47b58636d90800000000000000
+      internalID: -7105721045051967381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2841
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f040da6e087c80800000000000000
+      internalID: -8324888059271121854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2841
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3695b2ce0240d570800000000000000
+      internalID: 8489357928757040701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2842
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35874f131e286270800000000000000
+      internalID: 8243889777565730110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2841
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a03ffadd179bb0800000000000000
+      internalID: -4929438440712265169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_8
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2842
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab061e5a8796cbea0800000000000000
+      internalID: -5855689448588484422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2714
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ffb00960c5563b0800000000000000
+      internalID: -5519904585016410289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2714
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a423401ce11a50930800000000000000
+      internalID: 4108867388504814154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2714
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcf7b0974ade7fb0800000000000000
+      internalID: -4648037764494263080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2712
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b3fce63b7a64450800000000000000
+      internalID: 6072725536655752038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2714
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa195a0a45cfda0800000000000000
+      internalID: -5909755562067644664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2714
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda91a79abd878340800000000000000
+      internalID: 4866013754944494303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2714
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6051d8a331e41a0800000000000000
+      internalID: -6823495243223726419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_16
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2714
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9488c054f397260800000000000000
+      internalID: 7095772253694478808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_17
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2714
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17238ce13b2727170800000000000000
+      internalID: 8174722387272020593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_18
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2712
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a20d35ca42aab0800000000000000
+      internalID: -4998350425435231882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_19
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2714
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcc7ca651cf3d20800000000000000
+      internalID: 3260537233244736323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_20
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2714
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cddf1b4b141cdf80800000000000000
+      internalID: -8080561523952460346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2714
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9333edeaa33c930800000000000000
+      internalID: 4162235003347089891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_22
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2712
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23324b6007c5970b0800000000000000
+      internalID: -5730447414633684174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_23
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2714
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec9a9abc6caa2cf0800000000000000
+      internalID: -276218844142723860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_24
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2714
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bf9853e3de37c00800000000000000
+      internalID: 897321602218851202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_25
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2712
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6453a9ddb00c5f40800000000000000
+      internalID: 5718446442253866095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_26
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2714
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f222b1429f4690800000000000000
+      internalID: -7615707634001055406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_27
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2712
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cde30c35229a9e0800000000000000
+      internalID: -1609717648705266611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_28
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2712
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71826782c0f2a2bd0800000000000000
+      internalID: -2654257301116540905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_29
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2714
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2c1cc93e8cec080800000000000000
+      internalID: -9165167311739305307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2576
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd21ccbc2f28090800000000000000
+      internalID: -8033591828159472606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_31
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2576
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9363c51fd19200800000000000000
+      internalID: 185174344264293506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_32
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2576
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad29524a3d4bcbed0800000000000000
+      internalID: -2396842080582921510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_33
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2576
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62915800ab6bb3820800000000000000
+      internalID: 2899111695131941158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_34
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2576
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bddc7241302e9140800000000000000
+      internalID: 4728252054726565296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_35
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2576
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a587aa1a36fa3fad0800000000000000
+      internalID: -2669597311651645350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_36
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2574
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d76acacf5fee470800000000000000
+      internalID: 8425942418433932627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2576
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb32b86ce2f277190800000000000000
+      internalID: -7964845538035424321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_38
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2576
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f7a3ecd5d58450800000000000000
+      internalID: 6090509215777421063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_39
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2576
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495766bb5b634ef0800000000000000
+      internalID: -125138322989819579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_40
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2576
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5af1bd2573cc320800000000000000
+      internalID: 2579497515579581916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_41
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2574
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494edcd0bc8a3970800000000000000
+      internalID: 8735449118486186310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_42
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2576
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f4e55ac2f727b0800000000000000
+      internalID: -5248959889838640061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2489
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5007cd527bd17fa50800000000000000
+      internalID: 6554740455112470533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_44
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2489
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf061c1df3335a10800000000000000
+      internalID: 1896917030244061129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2489
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964962b9f0a014d80800000000000000
+      internalID: -8268316378731735959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_46
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2488
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e388e71836a250800000000000000
+      internalID: 5955509232580420186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_47
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2489
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf603fa7693cc070800000000000000
+      internalID: 8127934544980504496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_48
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2488
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53b011d2c8b11f60800000000000000
+      internalID: 8003381159684780893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_49
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2489
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891fefd089964d40800000000000000
+      internalID: 5568306768082049413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_50
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2488
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea6a7448b2d02f20800000000000000
+      internalID: 3395945807902042855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_51
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2489
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e74e3ccd970f65a0800000000000000
+      internalID: -6525988960718665755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_52
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2489
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d073e56e9955530800000000000000
+      internalID: 3843147071732780346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_53
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2489
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03dace15a2b8c00800000000000000
+      internalID: 903862681569407166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2489
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931429bb14faf3c80800000000000000
+      internalID: -8340755288012209863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_55
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2489
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6db9a2ef7c48e30800000000000000
+      internalID: 4504945421727815416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_56
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2488
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee624d66a35631610800000000000000
+      internalID: 1590726394899605230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_57
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2489
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a565cf9b61f71d0800000000000000
+      internalID: -3350934609682081225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_58
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2489
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8089dd6c9e9145800800000000000000
+      internalID: 600133142201604104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1800
+        width: 407
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1425efdf97fb80800000000000000
+      internalID: -8361038399219163511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_60
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1999
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82222fdfdf52966f0800000000000000
+      internalID: -690979295007202776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_61
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1999
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07384b4ce3b19a4c0800000000000000
+      internalID: -4275856414809488528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_62
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2000
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1011e5145f15c0b0800000000000000
+      internalID: -5709122506617450469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_63
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1999
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ab710679568bb80800000000000000
+      internalID: -8378835405896172947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1999
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dccbf57416a1e60800000000000000
+      internalID: 7933760652743331080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_65
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2000
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253870788c81946c0800000000000000
+      internalID: -4158765531362000046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_66
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1999
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4948f6970343dc060800000000000000
+      internalID: 6975288780667192468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_67
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2000
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f4be4c4b9d8030800000000000000
+      internalID: 3498623237577044842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_68
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1872
+        width: 23
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2c3ab1ddbd9e70800000000000000
+      internalID: 9123657128592812907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_69
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1872
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd84ac5174ce666c0800000000000000
+      internalID: -4150370216522921763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_70
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1872
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd25ab1a01091ec0800000000000000
+      internalID: -3595841684553519681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_71
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1871
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668de243fa50b3460800000000000000
+      internalID: 7222372677471623270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_72
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1872
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76edef13849c24d30800000000000000
+      internalID: 4414311896690122343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_73
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1872
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c6e19b52760e0f0800000000000000
+      internalID: -1089757698106430460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_74
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1872
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75982bab83a7f76d0800000000000000
+      internalID: -2990537243481700009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_75
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1872
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6483fb96e2d0890800000000000000
+      internalID: -7490279573532686680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_76
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1872
+        width: 23
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e2d263f4bfbe4e0800000000000000
+      internalID: -1951189695905059319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_77
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1871
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6f02468a71f300800000000000000
+      internalID: 284142968553565431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_78
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1872
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe0d2a6b8dfa800800000000000000
+      internalID: 625957152155037692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_79
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1872
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640808b4a5c0a5ca0800000000000000
+      internalID: -6027491569328684986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_80
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1872
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca45b6aeb80e3170800000000000000
+      internalID: 8159969189775624907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_81
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1871
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714b50e3c191e7610800000000000000
+      internalID: 1620760524990297111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_82
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1872
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9211a35840ac4330800000000000000
+      internalID: 3696505626665489055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_83
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1872
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424a8edb7f6ed810800000000000000
+      internalID: 1791992279545299527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_84
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1871
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f985e8d73fafdb0800000000000000
+      internalID: -4757222335778873597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_85
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1872
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3819f146ffc042a60800000000000000
+      internalID: 7648252358217929091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_86
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1871
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bea2236f1df5df0800000000000000
+      internalID: -189201803992437999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_87
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1871
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6eec4b5d9599fc0800000000000000
+      internalID: -3487657662025374039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_88
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1872
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffe5f95f8f5f4530800000000000000
+      internalID: 3841394076464574448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_89
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1734
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c52e15ae8931020800000000000000
+      internalID: 2311359165934754886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_90
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1734
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b85cd9b1a81aae40800000000000000
+      internalID: 5668370163886217400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_91
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1734
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd41c407846c991a0800000000000000
+      internalID: -6802187747742444325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_92
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1734
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a536072cec19d0800000000000000
+      internalID: -2802105215779232145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_93
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1734
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b88f924df930f120800000000000000
+      internalID: 2445518357569439922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_94
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1734
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3936dc094be88ac60800000000000000
+      internalID: 7829664858358244243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_95
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1733
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f29f388a214b8820800000000000000
+      internalID: 2921500434210198261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_96
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1734
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654255ce10a70a20800000000000000
+      internalID: 3028565328449914215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_97
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1734
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0138da25cb0b35e30800000000000000
+      internalID: 4491127576305959696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_98
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1734
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a181a91b91417ffe0800000000000000
+      internalID: -1155432678810839014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_99
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1734
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61029e4d3af4a80800000000000000
+      internalID: -8480379438475766086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_100
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1733
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335440e566ec91810800000000000000
+      internalID: 1736646070387361075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_101
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1734
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5766689fc07b3c0800000000000000
+      internalID: -4343989049734302241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_102
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1647
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4176ff96229100e0800000000000000
+      internalID: -2305400839646842548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_103
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1647
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e519d6e005861330800000000000000
+      internalID: 3681275984341439969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_104
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1647
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0671fab7dfd5c5f40800000000000000
+      internalID: 5718548970136868704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_105
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1647
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c3237283d0e07b0800000000000000
+      internalID: -5256249180267856739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_106
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1647
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd60c95ced3c35820800000000000000
+      internalID: 2905881546149594845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_107
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1647
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b05f826d2dde5d0800000000000000
+      internalID: -3031535156898493680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_108
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1647
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf21014fb366d6640800000000000000
+      internalID: 5074824762800214779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_109
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1647
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092708b71abb83e10800000000000000
+      internalID: 2177696722069779088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_110
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1647
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca268d5e525c1230800000000000000
+      internalID: 3610851566493772488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_111
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1647
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7fb886a6726b570800000000000000
+      internalID: 8482010286172927909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_112
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1647
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be9568b96891860800000000000000
+      internalID: 7501174656894364489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_113
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1647
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c801ec0c9184e0800000000000000
+      internalID: -1981130781937317621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_114
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1647
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c38a9ce395e97190800000000000000
+      internalID: -7964082042535509055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_115
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1647
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e91e73e275dbf0800000000000000
+      internalID: -300207478751501067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_116
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1647
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4daa15925013030800000000000000
+      internalID: 3472562462701311136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_117
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1647
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb2759600e5e81b0800000000000000
+      internalID: -5652477126443062288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 970
+        width: 403
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc142baeb277b7110800000000000000
+      internalID: 1259731551285035471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_119
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1174
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5038a2a6ea8e20800000000000000
+      internalID: 3353746458811588365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_120
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1174
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa60f86621940b0800000000000000
+      internalID: -5744039618038812772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_121
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1175
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff0e09a6e22db60800000000000000
+      internalID: 7769323342399602559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_122
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1174
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791304e719d5e2bc0800000000000000
+      internalID: -3806001755611713129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1174
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e86cf0845223a80800000000000000
+      internalID: -8488681356207419871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_124
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1175
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f0be4c8897bcd80800000000000000
+      internalID: -8229350265763197174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_125
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1174
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9da3aeb0c16de0800000000000000
+      internalID: -1341579288957313868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_126
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1175
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2adc94eaa471ad50800000000000000
+      internalID: 6746801994106460717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_127
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1047
+        width: 23
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58193141520ecfcc0800000000000000
+      internalID: -3675816745985928827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_128
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1047
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e3f53ae72b70b0800000000000000
+      internalID: -5729942214017817762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1047
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab07c2dc384d2490800000000000000
+      internalID: -7769474356072739929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_130
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1046
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61678dfe838e548a0800000000000000
+      internalID: -6321391170704869866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1047
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac7111d2067f430800000000000000
+      internalID: 3816624955896351258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_132
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1047
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3e2cf8bdb7e4d0800000000000000
+      internalID: -3105304815846147119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_133
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1047
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d351a35b3e053620800000000000000
+      internalID: 2753122395175867345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_134
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1047
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8829dd773b77a9b0800000000000000
+      internalID: -5068947377317402485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_135
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1047
+        width: 23
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff1f094ad342950800000000000000
+      internalID: 6423326745552879423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_136
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1046
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b52998d5d1347a0800000000000000
+      internalID: -6394234758358738119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_137
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1047
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2855697ff8c28a90800000000000000
+      internalID: -7313061845317363666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_138
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1047
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be792c6dddd5d6000800000000000000
+      internalID: 30783979833694187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_139
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1047
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ae37590aca5ba0800000000000000
+      internalID: -6099340603852674784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_140
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1046
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b32a6d71c96f20800000000000000
+      internalID: 3416474536733028786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_141
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1047
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429e869dd43c9c350800000000000000
+      internalID: 6037571514594289956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_142
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1047
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04cc9989fa18ef0800000000000000
+      internalID: -107611846129991472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_143
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1046
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323d76cdd66c0a310800000000000000
+      internalID: 1414348458145862435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_144
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1047
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620aee956a69618c0800000000000000
+      internalID: -4028867175418781658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_145
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1046
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45ec4a490a4f0a50800000000000000
+      internalID: 6489486991825888589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_146
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1046
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bc007010266a590800000000000000
+      internalID: -7663329959372338335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_147
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1047
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560946d031af891c0800000000000000
+      internalID: -4496569268193423259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_148
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 909
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892a93c44aa545f30800000000000000
+      internalID: 4563371984133137048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_149
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 909
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e2c99ffe7b495b0800000000000000
+      internalID: -5362459014978589103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_150
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 909
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f75d171dd1f3660800000000000000
+      internalID: 7367640300796608360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_151
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 909
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a944e450dfbc880800000000000000
+      internalID: -8589493665049306611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_152
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 909
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880dc28c0dc9f5a00800000000000000
+      internalID: 747488483692302472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_153
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 909
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864e22abeac2fa570800000000000000
+      internalID: 8480045752320713832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_154
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 908
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d78c446da5936f0800000000000000
+      internalID: -704431990383280896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_155
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 909
+        width: 79
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff41b8e407a7cda0800000000000000
+      internalID: -5924583145256955917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_156
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 909
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b325c69108265300800000000000000
+      internalID: 240423617400480693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_157
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 909
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3b1c8a34369f050800000000000000
+      internalID: 5834803934480413655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_158
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 909
+        width: 23
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc10339c80e1dc390800000000000000
+      internalID: -7796542356824325685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_159
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 908
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3237ed4b32ee9d0800000000000000
+      internalID: -2743215863288880137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_160
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 909
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf804a0fcedfcc720800000000000000
+      internalID: 2867946256819554556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_161
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 822
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d017adb9ababf8e0800000000000000
+      internalID: -1658543292236230443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_162
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 822
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15411465a89984490800000000000000
+      internalID: -7761785138341407663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_163
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 822
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5aef56cfeaef90800000000000000
+      internalID: -6923457841836958294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_164
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 822
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae394880f308bc10800000000000000
+      internalID: 2069408360390278818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_165
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 822
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7719d0d91572ce0800000000000000
+      internalID: -1430084621687490568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_166
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 822
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627c54006059a13d0800000000000000
+      internalID: -3235109529305364698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_167
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 822
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b76a0812b55e900800000000000000
+      internalID: 713076315458534244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_168
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 822
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4738e7d02399270800000000000000
+      internalID: 8257686425299023101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_169
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 822
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7acf0e28ca0500f0800000000000000
+      internalID: -1151502274840769924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_170
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 822
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329bb70ff24a93db0800000000000000
+      internalID: -4811634201063605981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_171
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 822
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bab12e9fbc3ff160800000000000000
+      internalID: 7061429534429657783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_172
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 822
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89897adf461eed490800000000000000
+      internalID: -7719484887397853032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_173
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 822
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f75216d14e991350800000000000000
+      internalID: 5987991185167374328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_174
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 822
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944f8fcb293535b80800000000000000
+      internalID: -8407284189669821367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_175
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 822
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f01c68ed2ce85a60800000000000000
+      internalID: 7663134447887978741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_176
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 822
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ddb19c310d5a80800000000000000
+      internalID: -8476617563986602052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_177
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4658e8ecaec30ac60800000000000000
+      internalID: 7827323131555382628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_178
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 0
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0146dba067dfad0800000000000000
+      internalID: -2666845615834263327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_179
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 12
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f1e0f32cf3d9190800000000000000
+      internalID: -7954131263352332501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_180
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32618a96d1571b0800000000000000
+      internalID: -5659585017092365396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_181
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd5cacfe1fec340800000000000000
+      internalID: 4886108657945009927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_182
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 12
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6b0c11066c26d0800000000000000
+      internalID: -3013921895666193159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_183
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2227985cf1a8a80800000000000000
+      internalID: -8463917616414448971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school-of-information-technology-and-innovation 1_184
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 0
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686559f1a2f9ad810800000000000000
+      internalID: 1790918805100516998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b198d768064669c4f89f452d6f895605
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      school-of-information-technology-and-innovation 1_0: 1946064595751819895
+      school-of-information-technology-and-innovation 1_1: 5429847352123444617
+      school-of-information-technology-and-innovation 1_10: 4108867388504814154
+      school-of-information-technology-and-innovation 1_100: 1736646070387361075
+      school-of-information-technology-and-innovation 1_101: -4343989049734302241
+      school-of-information-technology-and-innovation 1_102: -2305400839646842548
+      school-of-information-technology-and-innovation 1_103: 3681275984341439969
+      school-of-information-technology-and-innovation 1_104: 5718548970136868704
+      school-of-information-technology-and-innovation 1_105: -5256249180267856739
+      school-of-information-technology-and-innovation 1_106: 2905881546149594845
+      school-of-information-technology-and-innovation 1_107: -3031535156898493680
+      school-of-information-technology-and-innovation 1_108: 5074824762800214779
+      school-of-information-technology-and-innovation 1_109: 2177696722069779088
+      school-of-information-technology-and-innovation 1_11: -4648037764494263080
+      school-of-information-technology-and-innovation 1_110: 3610851566493772488
+      school-of-information-technology-and-innovation 1_111: 8482010286172927909
+      school-of-information-technology-and-innovation 1_112: 7501174656894364489
+      school-of-information-technology-and-innovation 1_113: -1981130781937317621
+      school-of-information-technology-and-innovation 1_114: -7964082042535509055
+      school-of-information-technology-and-innovation 1_115: -300207478751501067
+      school-of-information-technology-and-innovation 1_116: 3472562462701311136
+      school-of-information-technology-and-innovation 1_117: -5652477126443062288
+      school-of-information-technology-and-innovation 1_118: 1259731551285035471
+      school-of-information-technology-and-innovation 1_119: 3353746458811588365
+      school-of-information-technology-and-innovation 1_12: 6072725536655752038
+      school-of-information-technology-and-innovation 1_120: -5744039618038812772
+      school-of-information-technology-and-innovation 1_121: 7769323342399602559
+      school-of-information-technology-and-innovation 1_122: -3806001755611713129
+      school-of-information-technology-and-innovation 1_123: -8488681356207419871
+      school-of-information-technology-and-innovation 1_124: -8229350265763197174
+      school-of-information-technology-and-innovation 1_125: -1341579288957313868
+      school-of-information-technology-and-innovation 1_126: 6746801994106460717
+      school-of-information-technology-and-innovation 1_127: -3675816745985928827
+      school-of-information-technology-and-innovation 1_128: -5729942214017817762
+      school-of-information-technology-and-innovation 1_129: -7769474356072739929
+      school-of-information-technology-and-innovation 1_13: -5909755562067644664
+      school-of-information-technology-and-innovation 1_130: -6321391170704869866
+      school-of-information-technology-and-innovation 1_131: 3816624955896351258
+      school-of-information-technology-and-innovation 1_132: -3105304815846147119
+      school-of-information-technology-and-innovation 1_133: 2753122395175867345
+      school-of-information-technology-and-innovation 1_134: -5068947377317402485
+      school-of-information-technology-and-innovation 1_135: 6423326745552879423
+      school-of-information-technology-and-innovation 1_136: -6394234758358738119
+      school-of-information-technology-and-innovation 1_137: -7313061845317363666
+      school-of-information-technology-and-innovation 1_138: 30783979833694187
+      school-of-information-technology-and-innovation 1_139: -6099340603852674784
+      school-of-information-technology-and-innovation 1_14: 4866013754944494303
+      school-of-information-technology-and-innovation 1_140: 3416474536733028786
+      school-of-information-technology-and-innovation 1_141: 6037571514594289956
+      school-of-information-technology-and-innovation 1_142: -107611846129991472
+      school-of-information-technology-and-innovation 1_143: 1414348458145862435
+      school-of-information-technology-and-innovation 1_144: -4028867175418781658
+      school-of-information-technology-and-innovation 1_145: 6489486991825888589
+      school-of-information-technology-and-innovation 1_146: -7663329959372338335
+      school-of-information-technology-and-innovation 1_147: -4496569268193423259
+      school-of-information-technology-and-innovation 1_148: 4563371984133137048
+      school-of-information-technology-and-innovation 1_149: -5362459014978589103
+      school-of-information-technology-and-innovation 1_15: -6823495243223726419
+      school-of-information-technology-and-innovation 1_150: 7367640300796608360
+      school-of-information-technology-and-innovation 1_151: -8589493665049306611
+      school-of-information-technology-and-innovation 1_152: 747488483692302472
+      school-of-information-technology-and-innovation 1_153: 8480045752320713832
+      school-of-information-technology-and-innovation 1_154: -704431990383280896
+      school-of-information-technology-and-innovation 1_155: -5924583145256955917
+      school-of-information-technology-and-innovation 1_156: 240423617400480693
+      school-of-information-technology-and-innovation 1_157: 5834803934480413655
+      school-of-information-technology-and-innovation 1_158: -7796542356824325685
+      school-of-information-technology-and-innovation 1_159: -2743215863288880137
+      school-of-information-technology-and-innovation 1_16: 7095772253694478808
+      school-of-information-technology-and-innovation 1_160: 2867946256819554556
+      school-of-information-technology-and-innovation 1_161: -1658543292236230443
+      school-of-information-technology-and-innovation 1_162: -7761785138341407663
+      school-of-information-technology-and-innovation 1_163: -6923457841836958294
+      school-of-information-technology-and-innovation 1_164: 2069408360390278818
+      school-of-information-technology-and-innovation 1_165: -1430084621687490568
+      school-of-information-technology-and-innovation 1_166: -3235109529305364698
+      school-of-information-technology-and-innovation 1_167: 713076315458534244
+      school-of-information-technology-and-innovation 1_168: 8257686425299023101
+      school-of-information-technology-and-innovation 1_169: -1151502274840769924
+      school-of-information-technology-and-innovation 1_17: 8174722387272020593
+      school-of-information-technology-and-innovation 1_170: -4811634201063605981
+      school-of-information-technology-and-innovation 1_171: 7061429534429657783
+      school-of-information-technology-and-innovation 1_172: -7719484887397853032
+      school-of-information-technology-and-innovation 1_173: 5987991185167374328
+      school-of-information-technology-and-innovation 1_174: -8407284189669821367
+      school-of-information-technology-and-innovation 1_175: 7663134447887978741
+      school-of-information-technology-and-innovation 1_176: -8476617563986602052
+      school-of-information-technology-and-innovation 1_177: 7827323131555382628
+      school-of-information-technology-and-innovation 1_178: -2666845615834263327
+      school-of-information-technology-and-innovation 1_179: -7954131263352332501
+      school-of-information-technology-and-innovation 1_18: -4998350425435231882
+      school-of-information-technology-and-innovation 1_180: -5659585017092365396
+      school-of-information-technology-and-innovation 1_181: 4886108657945009927
+      school-of-information-technology-and-innovation 1_182: -3013921895666193159
+      school-of-information-technology-and-innovation 1_183: -8463917616414448971
+      school-of-information-technology-and-innovation 1_184: 1790918805100516998
+      school-of-information-technology-and-innovation 1_19: 3260537233244736323
+      school-of-information-technology-and-innovation 1_2: 361068742630818299
+      school-of-information-technology-and-innovation 1_20: -8080561523952460346
+      school-of-information-technology-and-innovation 1_21: 4162235003347089891
+      school-of-information-technology-and-innovation 1_22: -5730447414633684174
+      school-of-information-technology-and-innovation 1_23: -276218844142723860
+      school-of-information-technology-and-innovation 1_24: 897321602218851202
+      school-of-information-technology-and-innovation 1_25: 5718446442253866095
+      school-of-information-technology-and-innovation 1_26: -7615707634001055406
+      school-of-information-technology-and-innovation 1_27: -1609717648705266611
+      school-of-information-technology-and-innovation 1_28: -2654257301116540905
+      school-of-information-technology-and-innovation 1_29: -9165167311739305307
+      school-of-information-technology-and-innovation 1_3: -7105721045051967381
+      school-of-information-technology-and-innovation 1_30: -8033591828159472606
+      school-of-information-technology-and-innovation 1_31: 185174344264293506
+      school-of-information-technology-and-innovation 1_32: -2396842080582921510
+      school-of-information-technology-and-innovation 1_33: 2899111695131941158
+      school-of-information-technology-and-innovation 1_34: 4728252054726565296
+      school-of-information-technology-and-innovation 1_35: -2669597311651645350
+      school-of-information-technology-and-innovation 1_36: 8425942418433932627
+      school-of-information-technology-and-innovation 1_37: -7964845538035424321
+      school-of-information-technology-and-innovation 1_38: 6090509215777421063
+      school-of-information-technology-and-innovation 1_39: -125138322989819579
+      school-of-information-technology-and-innovation 1_4: -8324888059271121854
+      school-of-information-technology-and-innovation 1_40: 2579497515579581916
+      school-of-information-technology-and-innovation 1_41: 8735449118486186310
+      school-of-information-technology-and-innovation 1_42: -5248959889838640061
+      school-of-information-technology-and-innovation 1_43: 6554740455112470533
+      school-of-information-technology-and-innovation 1_44: 1896917030244061129
+      school-of-information-technology-and-innovation 1_45: -8268316378731735959
+      school-of-information-technology-and-innovation 1_46: 5955509232580420186
+      school-of-information-technology-and-innovation 1_47: 8127934544980504496
+      school-of-information-technology-and-innovation 1_48: 8003381159684780893
+      school-of-information-technology-and-innovation 1_49: 5568306768082049413
+      school-of-information-technology-and-innovation 1_5: 8489357928757040701
+      school-of-information-technology-and-innovation 1_50: 3395945807902042855
+      school-of-information-technology-and-innovation 1_51: -6525988960718665755
+      school-of-information-technology-and-innovation 1_52: 3843147071732780346
+      school-of-information-technology-and-innovation 1_53: 903862681569407166
+      school-of-information-technology-and-innovation 1_54: -8340755288012209863
+      school-of-information-technology-and-innovation 1_55: 4504945421727815416
+      school-of-information-technology-and-innovation 1_56: 1590726394899605230
+      school-of-information-technology-and-innovation 1_57: -3350934609682081225
+      school-of-information-technology-and-innovation 1_58: 600133142201604104
+      school-of-information-technology-and-innovation 1_59: -8361038399219163511
+      school-of-information-technology-and-innovation 1_6: 8243889777565730110
+      school-of-information-technology-and-innovation 1_60: -690979295007202776
+      school-of-information-technology-and-innovation 1_61: -4275856414809488528
+      school-of-information-technology-and-innovation 1_62: -5709122506617450469
+      school-of-information-technology-and-innovation 1_63: -8378835405896172947
+      school-of-information-technology-and-innovation 1_64: 7933760652743331080
+      school-of-information-technology-and-innovation 1_65: -4158765531362000046
+      school-of-information-technology-and-innovation 1_66: 6975288780667192468
+      school-of-information-technology-and-innovation 1_67: 3498623237577044842
+      school-of-information-technology-and-innovation 1_68: 9123657128592812907
+      school-of-information-technology-and-innovation 1_69: -4150370216522921763
+      school-of-information-technology-and-innovation 1_7: -4929438440712265169
+      school-of-information-technology-and-innovation 1_70: -3595841684553519681
+      school-of-information-technology-and-innovation 1_71: 7222372677471623270
+      school-of-information-technology-and-innovation 1_72: 4414311896690122343
+      school-of-information-technology-and-innovation 1_73: -1089757698106430460
+      school-of-information-technology-and-innovation 1_74: -2990537243481700009
+      school-of-information-technology-and-innovation 1_75: -7490279573532686680
+      school-of-information-technology-and-innovation 1_76: -1951189695905059319
+      school-of-information-technology-and-innovation 1_77: 284142968553565431
+      school-of-information-technology-and-innovation 1_78: 625957152155037692
+      school-of-information-technology-and-innovation 1_79: -6027491569328684986
+      school-of-information-technology-and-innovation 1_8: -5855689448588484422
+      school-of-information-technology-and-innovation 1_80: 8159969189775624907
+      school-of-information-technology-and-innovation 1_81: 1620760524990297111
+      school-of-information-technology-and-innovation 1_82: 3696505626665489055
+      school-of-information-technology-and-innovation 1_83: 1791992279545299527
+      school-of-information-technology-and-innovation 1_84: -4757222335778873597
+      school-of-information-technology-and-innovation 1_85: 7648252358217929091
+      school-of-information-technology-and-innovation 1_86: -189201803992437999
+      school-of-information-technology-and-innovation 1_87: -3487657662025374039
+      school-of-information-technology-and-innovation 1_88: 3841394076464574448
+      school-of-information-technology-and-innovation 1_89: 2311359165934754886
+      school-of-information-technology-and-innovation 1_9: -5519904585016410289
+      school-of-information-technology-and-innovation 1_90: 5668370163886217400
+      school-of-information-technology-and-innovation 1_91: -6802187747742444325
+      school-of-information-technology-and-innovation 1_92: -2802105215779232145
+      school-of-information-technology-and-innovation 1_93: 2445518357569439922
+      school-of-information-technology-and-innovation 1_94: 7829664858358244243
+      school-of-information-technology-and-innovation 1_95: 2921500434210198261
+      school-of-information-technology-and-innovation 1_96: 3028565328449914215
+      school-of-information-technology-and-innovation 1_97: 4491127576305959696
+      school-of-information-technology-and-innovation 1_98: -1155432678810839014
+      school-of-information-technology-and-innovation 1_99: -8480379438475766086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
