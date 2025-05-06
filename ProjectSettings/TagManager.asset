@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Charry
+  - Apple
+  - Enemy
   layers:
   - Default
   - TransparentFX

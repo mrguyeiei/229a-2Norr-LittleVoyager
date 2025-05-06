@@ -25,15 +25,23 @@ public class PlayerMove : MonoBehaviour
     void Update()
     {
         moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), 0);
-        rb2d.velocity = new Vector2(moveInput.x * speed, rb2d.velocity.y);
+        rb2d.linearVelocity = new Vector2(moveInput.x * speed, rb2d.linearVelocity.y);
 
         // ตั้งค่าการวิ่ง
         animator.SetBool("Run", moveInput.x != 0);
 
+        // หันหน้าตามการเคลื่อนไหว
+        if (moveInput.x != 0)
+        {
+            Vector3 scale = transform.localScale;
+            scale.x = Mathf.Sign(moveInput.x) * Mathf.Abs(scale.x);
+            transform.localScale = scale;
+        }
+
         // กระโดด
         if (Input.GetButtonDown("Jump") && !isJumping)
         {
-            rb2d.velocity = new Vector2(rb2d.velocity.x, jumpForce);
+            rb2d.linearVelocity = new Vector2(rb2d.linearVelocity.x, jumpForce);
             animator.SetTrigger("Jump");
         }
     }
