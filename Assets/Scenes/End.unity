@@ -417,8 +417,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Thanks for playing.\n\nMade by\n\n1660700301 Thanachot Phiwsaard \nGame
     Programmer / Game Developer\n\n1660700426 Pipat Loungphon \nLevel Designer /
-    Game Designer\n\nThanks for Assets\n\nPOLY STYLE - Platformer Starter Pack\n\nObstacle
-    Course Pack\n\nSurreal-Skyboxes"
+    Game Designer\n\nThanks for Assets\n\n2D Pixel Art Platformer | Biome - American
+    Forest\nSuperposition Principle\n\nPixel Pack: Retro Fruitz\nCherryStack\n\nPlatform
+    tile pack\nEvolvers\n\nSimple 2D Platformer Assets Pack\nGoldmetal"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7bbac735ee0d1be4dbd5489257c94429, type: 2}
   m_sharedMaterial: {fileID: 6725714113193290871, guid: 7bbac735ee0d1be4dbd5489257c94429, type: 2}
@@ -756,7 +757,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 150.15697, y: -1041.6433}
+  m_AnchoredPosition: {x: 150.15697, y: -1387}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1540750456
