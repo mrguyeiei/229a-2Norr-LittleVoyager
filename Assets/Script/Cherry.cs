@@ -1,26 +1,17 @@
 using UnityEngine;
 
-public class Cherry : MonoBehaviour
+public class Cherry : CherryUp
 {
-    public int value;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public int CherryIncrease;
+
+    private void Start()
     {
-        
+        CherryIncrease = 1;
     }
 
-    // Update is called once per frame
-    void Update()
+    public override void ApplyCherryUp(PlayerMove playerMove)
     {
-        
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Cherry"))
-        {
-           Destroy(other.gameObject);
-           CherryCounter.Instance.IncreaseCherry(value);
-        }
+        playerMove.CherryUp(CherryIncrease);
     }
 }
+
